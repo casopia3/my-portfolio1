@@ -720,7 +720,7 @@ export default function Portfolio() {
                   {[
                     { icon: "📧", label: "Email", value: "yabudreamer3@gmail.com" },
                     { icon: "📱", label: "Phone", value: "+251935944002" },
-                    { icon: "🌐", label: "Location", value: "Addis Abeba, EThiopia" },
+                    { icon: "🌐", label: "Location", value: "Addis Abeba, Ethiopia" },
                     { icon: "💼", label: "Telegram", value: " Casopia_9" },
                     { icon: "🐙", label: "GitHub", value: "/casopia3" },
                   ].map((c) => (
